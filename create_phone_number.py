@@ -1,4 +1,4 @@
-# (123) 456-7890
+# In: 1234567890 Out: (123) 456-7890
 def create_phone_number(n):
     b = '('
     for index, val in enumerate(n):
